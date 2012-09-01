@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rchost>
+  <application  directory="/home/ch0kee/development/Sources/visualnews-build-desktop/"
+                executable="./visualnews test.vnsession" />
+  <server port="1234" />
+
+</rchost>
